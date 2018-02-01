@@ -1,0 +1,10 @@
+/media/akaudia/3BE58FD068FA43DA/project/practice/guess-the-number-console/guess-the-number-csharp/bin/Debug/netcoreapp2.0/guess-the-number-csharp.deps.json
+/media/akaudia/3BE58FD068FA43DA/project/practice/guess-the-number-console/guess-the-number-csharp/bin/Debug/netcoreapp2.0/guess-the-number-csharp.runtimeconfig.json
+/media/akaudia/3BE58FD068FA43DA/project/practice/guess-the-number-console/guess-the-number-csharp/bin/Debug/netcoreapp2.0/guess-the-number-csharp.runtimeconfig.dev.json
+/media/akaudia/3BE58FD068FA43DA/project/practice/guess-the-number-console/guess-the-number-csharp/bin/Debug/netcoreapp2.0/guess-the-number-csharp.dll
+/media/akaudia/3BE58FD068FA43DA/project/practice/guess-the-number-console/guess-the-number-csharp/bin/Debug/netcoreapp2.0/guess-the-number-csharp.pdb
+/media/akaudia/3BE58FD068FA43DA/project/practice/guess-the-number-console/guess-the-number-csharp/obj/Debug/netcoreapp2.0/guess-the-number-csharp.csproj.CoreCompileInputs.cache
+/media/akaudia/3BE58FD068FA43DA/project/practice/guess-the-number-console/guess-the-number-csharp/obj/Debug/netcoreapp2.0/guess-the-number-csharp.AssemblyInfoInputs.cache
+/media/akaudia/3BE58FD068FA43DA/project/practice/guess-the-number-console/guess-the-number-csharp/obj/Debug/netcoreapp2.0/guess-the-number-csharp.AssemblyInfo.cs
+/media/akaudia/3BE58FD068FA43DA/project/practice/guess-the-number-console/guess-the-number-csharp/obj/Debug/netcoreapp2.0/guess-the-number-csharp.dll
+/media/akaudia/3BE58FD068FA43DA/project/practice/guess-the-number-console/guess-the-number-csharp/obj/Debug/netcoreapp2.0/guess-the-number-csharp.pdb
